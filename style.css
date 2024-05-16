@@ -1,0 +1,18 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    border: 2px solid black;
+}
+main section{
+    margin-bottom: 12px;
+}
+main section:nth-of-type(1) img{
+    height: 300px;
+}
